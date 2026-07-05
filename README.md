@@ -1,4 +1,3 @@
-[profile-README.md](https://github.com/user-attachments/files/29679669/profile-README.md)
 # Gürkay Özkan
 
 I'm a Quantitative Finance researcher, and Financial Engineering student at Boğaziçi University.
@@ -8,6 +7,8 @@ I hold a BSc degree in Economics (high honors) from Istanbul Technical Universit
 ## 🔬 Research
 
 **Perpetual Futures and Funding Rate Structure (Currently Working)**
+
+
 Empirical study of BTCUSDT perpetual futures funding rates built on a 5-minute spot–futures panel.
 
 📫 Contact
