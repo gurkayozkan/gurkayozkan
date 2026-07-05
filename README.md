@@ -1,16 +1,16 @@
-## Hi there 👋
+[profile-README.md](https://github.com/user-attachments/files/29679669/profile-README.md)
+# Gürkay Özkan
 
-<!--
-**gurkayozkan/gurkayozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Quantitative Finance researcher, and Financial Engineering student at Boğaziçi University.
 
-Here are some ideas to get you started:
+I hold a BSc degree in Economics (high honors) from Istanbul Technical University. Currently preparing independent research for journal submission.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research
+
+**Perpetual Futures and Funding Rate Structure (Currently Working)**
+Empirical study of BTCUSDT perpetual futures funding rates built on a 5-minute spot–futures panel.
+
+📫 Contact
+
+·gurkayozkan@gmail.com · [LinkedIn](https://www.linkedin.com/in/gurkayozkan/)
+
