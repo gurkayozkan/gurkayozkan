@@ -6,7 +6,7 @@ I hold a BSc degree in Economics (high honors) from Istanbul Technical Universit
 
 ## 🔬 Research
 
-**Perpetual Futures and Funding Rate Structure (Currently Working)**
+**Perpetual Futures and Funding Rate Structure (work in progress)**
 
 
 Empirical study of BTCUSDT perpetual futures funding rates built on a 5-minute spot–futures panel.
