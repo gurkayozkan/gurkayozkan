@@ -1,8 +1,6 @@
 # Gürkay Özkan
 
-I'm a Quantitative Finance researcher, and Financial Engineering student at Boğaziçi University.
-
-I hold a BSc degree in Economics (high honors) from Istanbul Technical University. Currently preparing independent research for journal submission.
+I hold a BSc degree in Economics from Istanbul Technical University and am currently completing an MSc degree in Financial Engineering at Boğaziçi University. I have professional experience as a trader, and global markets analyst—specifically managing customer portfolios, trading global equities and fixed-income instruments, and authoring investment research reports. My research interests lie at the intersection of machine learning, quantitative finance, and financial markets microstructure.
 
 ## 🔬 Research
 
